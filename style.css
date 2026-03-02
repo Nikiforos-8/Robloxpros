@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: blue;
+}
+
+
+footer {
+    background-color: red;
+    font-famlily: cursive;
+}
+
+
+p {
+    font-family: cursive;
+    color: orange
+}
+
+ol {
+    font-family: cursive;
+    color: Greenyellow;
+    border: 10px inset black;
+}
+
+nav {
+    border: 3px solid rgb(18, 209, 223);
+    margin-right: 150px;
+}
+
+html {
+    background-color: grey;
+}
+
